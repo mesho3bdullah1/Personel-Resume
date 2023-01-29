@@ -158,7 +158,8 @@ h2{
 	}
 
 	.section_right{
-		width: 300px;
+		width: 280px;
+		padding-left:10px
 	}
 	
 	.info img{
